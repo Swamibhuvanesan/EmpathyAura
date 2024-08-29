@@ -36,7 +36,7 @@ pip install -r requirements.txt
 bash
 streamlit run EmpathyAura.py
 ```
-##🔧 Usage
+## 🔧 Usage
 Enter your Replicate API Token:
 
 Input your token in the sidebar to enable interaction with the language models.
