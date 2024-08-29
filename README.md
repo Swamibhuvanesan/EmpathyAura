@@ -23,7 +23,7 @@ To run EmpathyAura locally, ensure you have the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/EmpathyAura.git
+   git clone https://github.com/Swamibhuvanesan/EmpathyAura.git
    cd EmpathyAura
    ```
 2. **Install dependencies**:
@@ -49,25 +49,25 @@ Adjust the developer options like temperature, top_p, and max_length to refine t
 Generate and Reflect:
 
 Watch as EmpathyAura crafts empathetic responses tailored to your mental health needs.
-##🤖 Technology Stack
+## 🤖 Technology Stack
 Streamlit: For building interactive web applications.
 Replicate: For accessing and utilizing advanced language models.
 Python: The backbone of the application.
-##🛠️ Developer Options
+## 🛠️ Developer Options
 The following parameters can be customized via the sidebar:
 
 Temperature: Controls the randomness of the output.
 Top P: Specifies the cumulative probability for nucleus sampling.
 Max Length: Sets the maximum number of tokens in the output.
-##📚 Resources
+## 📚 Resources
 Streamlit Documentation
 Replicate API Documentation
 EmpathyAura - Live Demo (if applicable)
-##🙌 Contributing
+## 🙌 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or new features.
 
-##📝 License
+## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##💬 Contact
+## 💬 Contact
 For any questions, feel free to reach out via your email or open an issue on GitHub.
