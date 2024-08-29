@@ -49,6 +49,9 @@ Adjust the developer options like temperature, top_p, and max_length to refine t
 Generate and Reflect:
 
 Watch as EmpathyAura crafts empathetic responses tailored to your mental health needs.
+
+## 📸 Demo
+
 ## 🤖 Technology Stack
 Streamlit: For building interactive web applications.
 Replicate: For accessing and utilizing advanced language models.
@@ -60,14 +63,12 @@ Temperature: Controls the randomness of the output.
 Top P: Specifies the cumulative probability for nucleus sampling.
 Max Length: Sets the maximum number of tokens in the output.
 ## 📚 Resources
-Streamlit Documentation
-Replicate API Documentation
-EmpathyAura - Live Demo (if applicable)
+Please refer to Streamlit Documentation and Replicate API Documentation.
 ## 🙌 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or new features.
 
 ## 📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache-2.0 license. See the LICENSE file for details.
 
 ## 💬 Contact
 For any questions, feel free to reach out via your email or open an issue on GitHub.
