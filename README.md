@@ -34,7 +34,7 @@ pip install -r requirements.txt
 3. **Run the app**:
 ```
 bash
-streamlit run EmpathyAura.py
+streamlit run app1.py
 ```
 ## 🔧 Usage
 Enter your Replicate API Token:
