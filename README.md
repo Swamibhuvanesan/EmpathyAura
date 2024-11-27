@@ -52,8 +52,10 @@ Watch as EmpathyAura crafts empathetic responses tailored to your mental health 
 
 ## 📸 Demo
 ![Screenshot 2024-11-27 122927](https://github.com/user-attachments/assets/91beaca7-cb64-429b-a6c8-c9d97947e137)
-![Screenshot 2024-11-27 122927](https://github.com/user-attachments/assets/229befbb-8bdf-4a30-9664-63729a4a7dfc)
-![Screenshot 2024-11-27 122927](https://github.com/user-attachments/assets/8ca077c5-904b-4f8e-ba58-d19b0951f53b)
+![Screenshot (370)](https://github.com/user-attachments/assets/857457c9-5101-4f9f-b750-e7b9b9c58b76)
+![Screenshot (371)](https://github.com/user-attachments/assets/4599ff06-8898-402c-988b-02575cc1e14a)
+
+
 
 
 
